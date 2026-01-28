@@ -15,6 +15,8 @@ A lightweight and easy-to-use tool to monitor the performance of your
   </tr>
 </table>
 
+**[View Example](https://codesandbox.io/p/sandbox/3sqpy4)**
+
 ## Features
 
 - FPS and render performance monitoring
@@ -70,6 +72,8 @@ position?: Sets the position of the panel. Options: 'top-right', 'top-left', 'bo
 ```
 
 ## Usage
+
+**[View Example](https://codesandbox.io/p/sandbox/3sqpy4)**
 
 ```jsx
 import { Canvas } from "@react-three/fiber";
