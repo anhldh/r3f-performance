@@ -2,18 +2,26 @@
 
 **[Changelog](https://github.com/anhldh/r3f-performace/blob/main/CHANGELOG.md)**
 
-A lightweight and easy-to-use tool to monitor the performance of your @react-three/fiber application.
+A lightweight and easy-to-use tool to monitor the performance of your  
+[@react-three/fiber](https://github.com/pmndrs/react-three-fiber) application.
 
 <table>
   <tr>
     <td>Add the <code>&lt;PerformanceMonitor /&gt;</code> component anywhere in your R3F Canvas.</td>
     <td>
-      <a href="https://wtp9t.csb.app/">
         <img src="https://bf3xu0otcy.ufs.sh/f/lSBP1EY5xRSnLHNlxKuvoRAdugXS39mBlIzpHEcwjKqeLFNJ" alt="R3F Performance Monitor" />
-      </a>
     </td>
   </tr>
 </table>
+
+## Features
+
+- FPS and render performance monitoring
+- Draw calls, geometries and WebGL program analysis
+- Memory usage tracking
+- Estimated GPU VRAM usage
+- Optional performance graphs
+- Minimal / headless modes for production or debugging
 
 ## Installation
 
