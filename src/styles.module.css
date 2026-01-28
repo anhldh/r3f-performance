@@ -2,7 +2,7 @@
   position: fixed;
   z-index: 9999;
   font-family: 'Roboto Mono', -apple-system, BlinkMacSystemFont, monospace; 
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.8);
   color: #fff;
   padding: 6px 0 6px 6px;
   -webkit-font-smoothing: antialiased;
@@ -177,7 +177,6 @@
   justify-content: center;
   cursor: pointer;
   font-size: 12px;
-  float: right;
   background-color: rgb(41, 43, 45);
   width: auto;
   margin: 0;
@@ -207,7 +206,6 @@
   text-overflow: ellipsis;
   cursor: pointer;
   display: block;
-  vertical-align: middle;
   font-size: 11px;
   padding: 5px;
   margin: 4px auto;
@@ -293,8 +291,6 @@
   padding: 4px;
   margin: 0;
   line-height: 1;
-  vertical-align: middle;
-  /* height: 24px;  <- Xóa dòng này để fix lỗi hiển thị nếu nội dung dài */
 }
 
 .programsUL b {
