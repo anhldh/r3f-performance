@@ -1,6 +1,6 @@
 {
     "name": "r3f-performance",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "license": "MIT",
     "description": "A performance monitor for React Three Fiber. Track FPS, draw calls, memory, and GPU usage.",
     "repository": {
