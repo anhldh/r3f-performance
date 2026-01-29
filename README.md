@@ -2,12 +2,12 @@
 
 **[Changelog](https://github.com/anhldh/r3f-performace/blob/main/CHANGELOG.md)**
 
-A lightweight and easy-to-use tool to monitor the performance of your  
+A easily tool to monitor the performance of your  
 [@react-three/fiber](https://github.com/pmndrs/react-three-fiber) application.
 
 <table>
   <tr>
-    <td>Add the <code>&lt;PerformanceMonitor /&gt;</code> component anywhere in your R3F Canvas.</td>
+    <td>Add the <code>&lt;PerfMonitor /&gt;</code> component anywhere in your R3F Canvas.</td>
     <td>
 <a href="https://codesandbox.io/p/sandbox/3sqpy4">
   <img src="https://bf3xu0otcy.ufs.sh/f/lSBP1EY5xRSnLHNlxKuvoRAdugXS39mBlIzpHEcwjKqeLFNJ" /></td>
@@ -82,7 +82,7 @@ import { PerformanceMonitor } from "r3f-performance";
 function App() {
   return (
     <Canvas>
-      <PerformanceMonitor />
+      <PerfMonitor />
     </Canvas>
   );
 }
