@@ -1,10 +1,10 @@
-![npm](https://img.shields.io/npm/v/r3f-performance)
+[![npm](https://img.shields.io/npm/v/r3f-monitor?style=flat-square)](https://www.npmjs.com/package/r3f-monitor)
 
 # R3F-Monitor
 
 **[Changelog](https://github.com/anhldh/r3f-monitor/blob/main/CHANGELOG.md)**
 
-A easily tool to monitor the performance of your  
+An easy tool to monitor the performance of your  
 [@react-three/fiber](https://github.com/pmndrs/react-three-fiber) application.
 
 <table>
@@ -96,4 +96,4 @@ function App() {
 
 ### Thanks
 
-Special thanks to [`twitter @utsuboco`](https://twitter.com/utsuboco). This library is a port/fork based on the original r3f-perf.
+Special thanks to [`twitter @utsuboco`](https://twitter.com/utsuboco). This library is a port/fork based on the original [r3f-perf](https://github.com/utsuboco/r3f-perf) library.
